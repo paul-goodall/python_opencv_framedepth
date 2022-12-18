@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-movie_data="https://github.com/paul-goodall/python_opencv_framedepth/blob/main/test_movie.mov"
+movie_data="https://github.com/paul-goodall/python_opencv_framedepth/blob/main/test_movie.mov?raw=true"
 
 # print some useful information about a numpy array:
 def ndarray_info(nda):
